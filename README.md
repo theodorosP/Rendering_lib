@@ -13,3 +13,4 @@ By using these techniques, the library produces detailed and high-resolution vis
 
   Python (>= 3.7, but should work with any 3.x version)
   Atomic Simulation Environment (ASE >= 3.15, but should work with other versions)
+
