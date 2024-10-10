@@ -1,4 +1,4 @@
-#Simulation Rendering and Visualization Library
+# Simulation Rendering and Visualization Library
 
 This library simplifies the process of converting simulation data into high-quality 2D images. It supports a variety of simulation packages and employs advanced rendering techniques to enhance the precision and clarity of visualizations.
 #Key Features:
@@ -9,7 +9,7 @@ This library simplifies the process of converting simulation data into high-qual
 
 By using these techniques, the library produces detailed and high-resolution visual representations of complex molecular and atomic structures, improving the interpretability of simulation results.
 
-#Requirements
+# Requirements
 
   Python (>= 3.7, but should work with any 3.x version)
   Atomic Simulation Environment (ASE >= 3.15, but should work with other versions)
